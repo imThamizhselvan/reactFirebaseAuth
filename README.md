@@ -1,6 +1,10 @@
 This project is done as part of Hacktober coding challenge to learn and explore various technologies. Here in this project i used the following technologies
 * ReactJS
 * Firebase
+* Styled Components
+* HTML
+* JSX
+* CSS
 
 Functionalities:
 * Sign up
