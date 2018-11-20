@@ -1,4 +1,11 @@
-This project is done as part of Hacktober coding challenge to learn and explore various technologies. Here in this project i used the following technologies
+This project is done as part of Hacktober coding challenge to learn and explore various technologies.
+Functionality 
+- sign in
+- sign up
+- forgot password
+- reset password
+- auth
+Here in this project i used the following technologies
 * ReactJS
 * Firebase
 * Styled Components
